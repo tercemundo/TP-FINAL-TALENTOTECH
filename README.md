@@ -32,3 +32,10 @@ TechLab es un sistema de gestión de ventas desarrollado en Python que permite a
 git clone https://github.com/tu-usuario/techlab.git
 cd techlab
 ```
+2. Instala las dependencias:
+```bash
+pip install -r requirements.txt
+```
+3. Ejecuta la aplicación:
+```bash
+python app.py
